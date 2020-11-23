@@ -22,7 +22,7 @@ Esta sala de juegos le brinda no una, ni dos, ni tres, sino _cuatro_ opciones di
 
 - ### Pong
 
-<img src="https://memegenerator.net/img/instances/85059230/aqui-pondria-el-gif-del-pong-si-tan-solo-tuviese-uno.jpg" width=400 />
+<img src="readmeimg/pongGif.gif" width=400 />
 
 ### Resumen de cada juego:
 
